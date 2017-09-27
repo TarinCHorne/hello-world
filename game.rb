@@ -3,6 +3,7 @@ class Game
   @@board = [[nil,nil,nil],[nil,nil,nil],[nil,nil,nil]] # not the fanciest array, but it works
   #    level:row       [null],       [null],       [null]
   #    level:row       [null],       [null],       [null]
+  #    level:row       [null],       [null],       [null]
   #                    index:column  index:column  index:column
   @@debug = true
 
